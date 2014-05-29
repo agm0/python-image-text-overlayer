@@ -1,0 +1,3 @@
+Usage: textoverlay.py filename "top text" "bottom text"
+
+Known issues: The text gets really small if you have more than a few words, which is an issue. Please tell me if you know a solution for this? (word wrap, whatever)
